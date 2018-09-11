@@ -1,4 +1,5 @@
 EESchema Schematic File Version 4
+LIBS:hal9k-backlight-cache
 EELAYER 26 0
 EELAYER END
 $Descr A4 11693 8268
@@ -281,8 +282,6 @@ Wire Wire Line
 	4050 2200 4050 2000
 Connection ~ 5100 2200
 Wire Wire Line
-	4000 2200 3000 2200
-Wire Wire Line
 	3000 2200 3000 2000
 Wire Wire Line
 	3000 2200 2000 2200
@@ -344,4 +343,7 @@ Connection ~ 3000 3550
 Connection ~ 2000 3550
 Wire Wire Line
 	2000 3550 2000 3350
+Wire Wire Line
+	3000 2200 4050 2200
+Connection ~ 4050 2200
 $EndSCHEMATC

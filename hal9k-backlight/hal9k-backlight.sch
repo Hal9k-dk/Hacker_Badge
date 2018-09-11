@@ -20,7 +20,7 @@ U 1 1 5B93A6EF
 P 1250 1700
 F 0 "J3" H 1170 1475 50  0000 C CNN
 F 1 "Din" H 1170 1566 50  0000 C CNN
-F 2 "Connector_PinSocket_2.00mm:PinSocket_1x01_P2.00mm_Vertical" H 1250 1700 50  0001 C CNN
+F 2 "Connector_PinHeader_2.00mm:PinHeader_1x01_P2.00mm_Vertical" H 1250 1700 50  0001 C CNN
 F 3 "~" H 1250 1700 50  0001 C CNN
 	1    1250 1700
 	-1   0    0    1   
@@ -31,7 +31,7 @@ U 1 1 5B93A73F
 P 1150 3800
 F 0 "J2" V 1116 3712 50  0000 R CNN
 F 1 "GND" V 1025 3712 50  0000 R CNN
-F 2 "Connector_PinSocket_2.00mm:PinSocket_1x01_P2.00mm_Vertical" H 1150 3800 50  0001 C CNN
+F 2 "Connector_PinHeader_2.00mm:PinHeader_1x01_P2.00mm_Vertical" H 1150 3800 50  0001 C CNN
 F 3 "~" H 1150 3800 50  0001 C CNN
 	1    1150 3800
 	0    -1   -1   0   
@@ -42,7 +42,7 @@ U 1 1 5B93A774
 P 1150 3550
 F 0 "J1" V 1023 3630 50  0000 L CNN
 F 1 "+" V 1114 3630 50  0000 L CNN
-F 2 "Connector_PinSocket_2.00mm:PinSocket_1x01_P2.00mm_Vertical" H 1150 3550 50  0001 C CNN
+F 2 "Connector_PinHeader_2.00mm:PinHeader_1x01_P2.00mm_Vertical" H 1150 3550 50  0001 C CNN
 F 3 "~" H 1150 3550 50  0001 C CNN
 	1    1150 3550
 	0    1    1    0   
@@ -53,7 +53,7 @@ U 1 1 5B93A7D0
 P 7100 1700
 F 0 "J4" H 7180 1742 50  0000 L CNN
 F 1 "Dout" H 7180 1651 50  0000 L CNN
-F 2 "Connector_PinSocket_2.00mm:PinSocket_1x01_P2.00mm_Vertical" H 7100 1700 50  0001 C CNN
+F 2 "Connector_PinHeader_2.00mm:PinHeader_1x01_P2.00mm_Vertical" H 7100 1700 50  0001 C CNN
 F 3 "~" H 7100 1700 50  0001 C CNN
 	1    7100 1700
 	1    0    0    -1  
