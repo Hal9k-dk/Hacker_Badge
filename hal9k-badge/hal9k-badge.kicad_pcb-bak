@@ -5706,8 +5706,8 @@
     )
   )
 
-  (gr_text "Designed by:\nAndersV209" (at 183.79 127.06 50) (layer B.SilkS)
-    (effects (font (size 1.5 1.5) (thickness 0.3)) (justify mirror))
+  (gr_text "Designed by:\nAndersV209" (at 183.9 126.6 50) (layer B.SilkS)
+    (effects (font (size 1.75 1.75) (thickness 0.3)) (justify mirror))
   )
   (gr_text ESP (at 172.37 143.56 25) (layer F.SilkS)
     (effects (font (size 1.5 1.5) (thickness 0.3)))
